@@ -73,3 +73,8 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Asset you need to download via UE Marketplace
+Content/InfinityBladeAdversaries/*
+Content/InfinityBladeEffects/*
+Content/InfinityBladeFireLands/*
